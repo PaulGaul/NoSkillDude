@@ -43,4 +43,15 @@ codeunit 50100 CalculateClouds
         else
             EXIT(1);
     end;
+
+    procedure RecalculateCount(Сloudcount:Integer) : Integer;
+    begin
+        Сloudcount +=1;
+        exit(Сloudcount);
+    end;
+
+    procedure NewSome();
+    begin
+        //send me invite to DoNothingClub pls
+    end;
 }
