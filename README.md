@@ -1,3 +1,3 @@
 # NoSkillDude
 Trying to move al code
-Через Extension в VS code "GIT History" пробую сделать версионность кода.
+User Extension "GIT History" in the Visual Studio code. Trying to do this.
