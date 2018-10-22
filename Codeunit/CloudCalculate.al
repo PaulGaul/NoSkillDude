@@ -62,4 +62,14 @@ codeunit 50100 CalculateClouds
     begin
         //send me invite to DoNothingClub#2 pls
     end;
+
+    procedure NewOne();
+    begin
+        //send me invite to DoNothingClub#2 pls
+    end;
+
+    procedure NewBranch();
+    begin
+        //send me invite to DoNothingClub#3 pls
+    end;
 }
