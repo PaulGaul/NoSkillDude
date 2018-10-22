@@ -51,6 +51,15 @@ page 50100 CloudName
                     RecCloud.DeleteAll;
                 end;
             }
+            action("RecalculateAmount")
+            {
+                trigger OnAction();
+                var
+                    CoudCalculate: Codeunit CalculateClouds;
+                begin
+                    "Сloud count" := CoudCalculate.RecalculateCount("Сloud count");
+                end;
+            }
         }
     }
     var
