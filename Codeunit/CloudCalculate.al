@@ -52,6 +52,14 @@ codeunit 50100 CalculateClouds
 
     procedure NewSome();
     begin
-        //send me invite to DoNothingClub pls
+        //zxcv
+        //zcxvzxcvxzz
+        /**/
+        /* zxcvzxcv*/
+    end;
+
+    procedure NewOne();
+    begin
+        //send me invite to DoNothingClub#2 pls
     end;
 }
